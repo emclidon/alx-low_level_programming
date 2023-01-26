@@ -1,4 +1,5 @@
-#include "lists.h";
+
+#include "lists.h"
 
 /**
  * print_list - prints a list
