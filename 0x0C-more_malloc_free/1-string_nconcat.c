@@ -1,34 +1,4 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@emclidon
-micoliser /
-alx-low_level_programming
-Public
-
-Fork your own copy of micoliser/alx-low_level_programming
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-alx-low_level_programming/0x0C-more_malloc_free/1-string_nconcat.c
-@micoliser
-micoliser 1-string_nconcat.c
-Latest commit b06da89 Nov 10, 2022
-History
-1 contributor
-54 lines (44 sloc) 805 Bytes
-#include "main.h"
+include "main.h"
 
 /**
  * string_nconcat - concatenates 2 strings
@@ -82,21 +52,3 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	return (s);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-alx-low_level_programming/1-string_nconcat.c at master · micoliser/alx-low_level_programming
-
